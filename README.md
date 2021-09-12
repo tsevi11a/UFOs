@@ -1,5 +1,4 @@
-
-# UFO Sightings
+# UFOs
 
 ## Overview of Project 
 The purpose of this project is to create a webpage of UFO sightings where users can filter through a table of data using multiple search criteria.
